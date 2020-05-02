@@ -1,0 +1,9 @@
+name: Hub
+version: 1.8
+author: Ba59
+main: fr.ba.hub.hub
+commands:
+  coins:
+    description: Commande pour les coins
+  credits:
+    description: Commande pour les credits
